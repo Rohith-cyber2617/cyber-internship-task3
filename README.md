@@ -23,14 +23,17 @@ The goal of this task is to perform vulnerability scanning on a Metasploitable 2
 
 ## 📷 Screenshots
 
-### 1️⃣ Target Added in Acunetix
-![Target Added](screenshots/target_added.png)
+### 1️⃣ Scan Configuration
+![Scan Configuration](screenshots/scan%20configuration.png)
 
 ### 2️⃣ Scan Progress
-![Scan Progress](screenshots/scan_progress.png)
+![Scan Process](screenshots/scan%20process2.png)
 
-### 3️⃣ Detected Vulnerabilities
-![Detected Vulnerabilities](screenshots/vulnerabilities.png)
+### 3️⃣ Vulnerabilities Identified (High & Critical)
+![High & Critical Vulnerabilities](screenshots/vulnerabilities%20identified%20(High%20&%20critical).png)
+
+### 4️⃣ Medium Vulnerabilities
+![Medium Vulnerabilities](screenshots/medium%20vulnerabilities.png)
 
 > **Note:** Place your screenshots inside a `screenshots` folder in your repository before linking.
 
@@ -38,16 +41,6 @@ The goal of this task is to perform vulnerability scanning on a Metasploitable 2
 
 ## 📄 Findings & Analysis
 See [findings_analysis.md](findings_analysis.md) for a detailed explanation of vulnerabilities and recommendations.
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rohith-cyber2617/cyber-internship-task3.git
-   ```
-2. Open the screenshots folder to view scan images.  
-3. Read the `findings_analysis.md` for detailed analysis.
 
 ---
 
