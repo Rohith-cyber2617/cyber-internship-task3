@@ -15,8 +15,6 @@ cyber-internship-task3/
 │   ├── [Methodology](notes/methodology.md)  
 │   ├── [Findings Analysis](notes/findings_analysis.md)  
 │
-├── reports/ (to be added later)
-│
 └── README.md  
 ```
 
