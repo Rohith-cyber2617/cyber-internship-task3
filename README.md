@@ -39,7 +39,7 @@ The goal of this task is to perform vulnerability scanning on a Metasploitable 2
 ---
 
 ## 📄 Findings & Analysis
-See [findings_analysis.md](findings_analysis.md) for a detailed explanation of vulnerabilities and recommendations.
+See [findings_analysis.md] in notes (findings_analysis.md) for a detailed explanation of vulnerabilities and recommendations.
 
 ---
 
