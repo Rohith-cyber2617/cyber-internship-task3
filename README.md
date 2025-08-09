@@ -35,7 +35,6 @@ The goal of this task is to perform vulnerability scanning on a Metasploitable 2
 ### 4️⃣ Medium Vulnerabilities
 ![Medium Vulnerabilities](screenshots/medium%20vulnerabilities.png)
 
-> **Note:** Place your screenshots inside a `screenshots` folder in your repository before linking.
 
 ---
 
