@@ -23,7 +23,7 @@ cyber-internship-task3/
 - [📄 Findings Analysis](notes/findings_analysis.md) – Detailed analysis of vulnerabilities detected.
 
 ## 🖼 Screenshots
-- ![Scan Configuration](images/scan_configuration.png)
+- ![Scan Configuration](screenshots/scan configuration.png)
 - ![Scan Process](images/scan_process2.png)
 - ![High & Critical Vulnerabilities](images/vulnerabilities_identified_high_critical.png)
 - ![Medium Vulnerabilities](images/medium_vulnerabilities.png)
