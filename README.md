@@ -1,48 +1,38 @@
 # Cyber Internship - Task 3  
-**Vulnerability Scanning on Metasploitable 2 using Acunetix**
+**Acunetix Scan of Metasploitable 2**
 
-## 📌 Objective
-The goal of this task is to perform vulnerability scanning on a Metasploitable 2 machine using **Acunetix** and document the findings.
+## 📂 Repository Structure
+```
+cyber-internship-task3/
+│
+├── images/  
+│   ├── scan_configuration.png  
+│   ├── scan_process2.png  
+│   ├── vulnerabilities_identified_high_critical.png  
+│   ├── medium_vulnerabilities.png  
+│
+├── notes/  
+│   ├── [Methodology](notes/methodology.md)  
+│   ├── [Findings Analysis](notes/findings_analysis.md)  
+│
+├── reports/ (to be added later)
+│
+└── README.md  
+```
 
----
+## 📜 Methodology & Findings
+- [📄 Methodology](notes/methodology.md) – Step-by-step process of scanning Metasploitable 2 using Acunetix.  
+- [📄 Findings Analysis](notes/findings_analysis.md) – Detailed analysis of vulnerabilities detected.
 
-## 🛠 Tools Used
-- **Acunetix** – Automated web vulnerability scanner  
-- **Metasploitable 2** – Intentionally vulnerable Linux VM  
+## 🖼 Screenshots
+- ![Scan Configuration](images/scan_configuration.png)
+- ![Scan Process](images/scan_process2.png)
+- ![High & Critical Vulnerabilities](images/vulnerabilities_identified_high_critical.png)
+- ![Medium Vulnerabilities](images/medium_vulnerabilities.png)
 
----
-
-## 🔍 Steps Performed
-1. Setup **Metasploitable 2** in VMware/VirtualBox.  
-2. Verified network connectivity between host and target.  
-3. Launched **Acunetix** and configured scan target (Metasploitable 2 IP).  
-4. Started the scan and monitored progress.  
-5. Captured multiple screenshots during the scan.  
-
----
-
-## 📷 Screenshots
-
-### 1️⃣ Scan Configuration
-![Scan Configuration](screenshots/scan%20configuration.png)
-
-### 2️⃣ Scan Progress
-![Scan Process](screenshots/scan%20process2.png)
-
-### 3️⃣ Vulnerabilities Identified (High & Critical)
-![High & Critical Vulnerabilities](screenshots/vulnerabilities%20identified%20(High%20&%20critical).png)
-
-### 4️⃣ Medium Vulnerabilities
-![Medium Vulnerabilities](screenshots/medium%20vulnerabilities.png)
-
-
----
-
-## 📄 Findings & Analysis
-See [/notes/findings_analysis.md](notes/findings_analysis.md) in notes for a detailed explanation of vulnerabilities and recommendations.
-
----
-
-## 🏆 Conclusion
-Metasploitable 2 contains multiple high-risk vulnerabilities that could be exploited by attackers. Running periodic scans with tools like Acunetix is essential for identifying and mitigating such risks.
-
+## 📌 Notes
+This task involves:
+- Scanning Metasploitable 2 using **Acunetix**
+- Documenting methodology and results
+- Adding screenshots for visual reference
+- Final report to be added in `/reports/` folder
